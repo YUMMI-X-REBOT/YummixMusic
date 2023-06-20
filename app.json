@@ -68,8 +68,8 @@
         "value": "",
         "required": true
       },
-        "HEROKU_API_KEY": {
-        "description": "Your Heroku account's API key",
+        "START_IMG_URL": {
+        "description": "START_IMG_URL",
         "value": "",
         "required": true
       },
