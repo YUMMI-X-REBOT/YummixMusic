@@ -68,14 +68,14 @@
         "value": "",
         "required": true
       },
-      "UPSTREAM_REPO": {
-        "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+      "SUPPORT_GROUP": {
+        "description": "telegram group link ",
+        "value": "https://t.me/Friendship_Support_Group",
         "required": true
       },
-      "UPSTREAM_BRANCH": {
-        "description": "Upstream Repo's Branch Name",
-        "value": "master",
+      "SUPPORT_CHANNEL": {
+        "description": "telegram channel link ",
+        "value": "https://t.me/Friendship_Updater_Group",
         "required": true
       }
     },
