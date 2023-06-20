@@ -68,6 +68,11 @@
         "value": "",
         "required": true
       },
+        "HEROKU_API_KEY": {
+        "description": "Your Heroku account's API key",
+        "value": "",
+        "required": true
+      },
       "SUPPORT_GROUP": {
         "description": "telegram group link ",
         "value": "https://t.me/Friendship_Support_Group",
